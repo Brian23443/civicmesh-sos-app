@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "shell": [
+    "assets/inter-latin-600-normal-LgqL8muc.woff2",
+    "assets/inter-latin-500-normal-Cerq10X2.woff2",
+    "assets/inter-latin-400-normal-C38fXH4l.woff2",
+    "assets/inter-latin-600-normal-CiBQ2DWP.woff",
+    "assets/inter-latin-500-normal-BL9OpVg8.woff",
+    "assets/inter-latin-400-normal-CyCys3Eg.woff",
+    "assets/index-DVAQvavO.css",
+    "assets/index-DuC_MFaH.js",
+    "assets/loadModel-7JalgWMe.js",
+    "assets/workbox-window.prod.es5-BBnX5xw4.js",
+    "assets/ort.wasm.bundle.min-BeB5Dsfq.js",
+    "index.html",
+    "icon-192.png",
+    "icon-512.png",
+    "icon.svg"
+  ],
+  "model": [
+    "model/embedder.onnx.gz",
+    "model/model.json",
+    "model/prototypes.json",
+    "model/tokenizer.json",
+    "model/tokenizer_config.json"
+  ],
+  "wasm": [
+    "ort/ort-wasm-simd-threaded.mjs",
+    "ort/ort-wasm-simd-threaded.wasm"
+  ],
+  "missingInference": []
+}
